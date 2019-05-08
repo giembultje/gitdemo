@@ -1,0 +1,5 @@
+Een stukje voorbeeld tekst. 
+
+Maar dit had ook gewoon code kunnen zijn. 
+
+Als het maar tekst files zijn en geen binaire bestanden. 
